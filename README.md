@@ -1,5 +1,7 @@
 #WebAura
 
+This is the link for the ppt file: "https://1drv.ms/p/c/7bf6af8cee6a5485/EcXTCE35pOxBrscg7Fl6VygBYnzyUIKY5ZyfVhx9jWbSSw?e=IAU7Cs"
+
 This is a NextJS based project developed with the help of Gemini API.
 
 To get started, take a look at src/app/page.tsx.
